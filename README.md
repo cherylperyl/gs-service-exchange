@@ -4,7 +4,7 @@ The marketplace for all Goldman Sachs financial services
 
 Find us live at https://www.gsserviceexchange.online/
 
-This project is supported by our .NET backend server, which is open for public viewing at https://api.gsserviceexchange.online/
+This project is supported by our .NET backend server, which is open for public viewing at https://api.gsserviceexchange.online/ (terminated as of Jul 2023)
 
 ## 🏆 1st Runner Up at Ellipsis Tech Series Hackathon 2022
 
